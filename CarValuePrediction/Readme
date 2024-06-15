@@ -1,0 +1,5 @@
+Car value prediction using GradientBoostingRegressor
+Here Kaggle data base has been used - https://www.kaggle.com/datasets/rupeshraundal/marketcheck-automotive-data-us-canada?select=ca-dealers-used.csv
+For Data preprociessing refer experiment.py file
+For model buidling refer model.py 
+For model deployment and Front end refer starter.py
